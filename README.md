@@ -4,7 +4,7 @@ Projeto foi desenvolvido utilizando as tecnologias React e Typescript.
 
 ## Projeto
 
-<img src="img/img.png" align="center" alt="Computador">
+<img src="./app-financas/img/img.png" align="center" alt="AppFinancas">
 
 # Expense Tracker with React
 
